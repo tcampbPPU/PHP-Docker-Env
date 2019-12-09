@@ -1,0 +1,12 @@
+# Hiding all my secrets from Antione Dodson so he don't find me 
+https://www.youtube.com/watch?v=EzNhaLUT520&t=99
+
+# Hide Macos BS
+.DS_Store
+
+# Hide my logs
+logs/*.log
+
+
+# Hide any files in mysql/ but keep dir
+mysql/*
